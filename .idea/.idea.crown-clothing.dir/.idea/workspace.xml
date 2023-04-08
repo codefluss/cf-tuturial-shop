@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_redirects" afterDir="false" />
-    </list>
+    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +93,7 @@
       <workItem from="1680978032867" duration="213000" />
       <workItem from="1680978823593" duration="206000" />
       <workItem from="1680979032286" duration="968000" />
+      <workItem from="1680982267734" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="updated project structure">
       <created>1680622929401</created>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680979077720</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added redirect for netlify">
+      <created>1680982284463</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982284463</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +267,7 @@
     <MESSAGE value="finalized" />
     <MESSAGE value="updated git ignore" />
     <MESSAGE value="add ideea files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ideea files" />
+    <MESSAGE value="added redirect for netlify" />
+    <option name="LAST_COMMIT_MESSAGE" value="added redirect for netlify" />
   </component>
 </project>

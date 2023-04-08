@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="007-style-application" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2NxwdhqGQTtU1Rwe52NWo62wtDj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RESTKit.sync.cert.Ide": "true",
+    "RESTKit.sync.env.Ide": "true",
+    "RESTKit.sync.requestConfig.Ide": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/friedrichbachinger/Library/Application Support/JetBrains/Toolbox/apps/Rider/ch-1/223.8836.53/Rider.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/friedrichbachinger/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache",
+      "/Users/friedrichbachinger/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache",
+      "/Users/friedrichbachinger/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="" />
+      <created>1680619134478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680619134478</updated>
+      <workItem from="1680619134479" duration="20072000" />
+      <workItem from="1680670203353" duration="3750000" />
+      <workItem from="1680720105417" duration="4688000" />
+      <workItem from="1680733824533" duration="88000" />
+      <workItem from="1680733921875" duration="18000" />
+      <workItem from="1680868771912" duration="3323000" />
+      <workItem from="1680949946798" duration="23243000" />
+      <workItem from="1680978032867" duration="213000" />
+      <workItem from="1680978823593" duration="206000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated project structure">
+      <created>1680622929401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680622929401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added routing for app">
+      <created>1680624540479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680624540479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added routing">
+      <created>1680627708148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680627708148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added firestore + auth">
+      <created>1680633091492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680633091492</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create sign up form">
+      <created>1680641979154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680641979154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added button component, sign-up-form">
+      <created>1680671253556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680671253556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added authentication">
+      <created>1680673905164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680673905164</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added context">
+      <created>1680724832354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680724832354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added cart">
+      <created>1680953916869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680953916870</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created checkout page">
+      <created>1680965246145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680965246145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add store methods">
+      <created>1680966867369</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966867369</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fetching data as a map">
+      <created>1680968413981</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680968413981</updated>
+    </task>
+    <task id="LOCAL-00013" summary="split categories">
+      <created>1680969068552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680969068552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated category page">
+      <created>1680972309454</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680972309454</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixing clashing styles">
+      <created>1680974210998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680974210998</updated>
+    </task>
+    <task id="LOCAL-00016" summary="finalized">
+      <created>1680975992047</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680975992047</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated git ignore">
+      <created>1680978079518</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680978079518</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="updated project structure" />
+    <MESSAGE value="added routing for app" />
+    <MESSAGE value="added routing" />
+    <MESSAGE value="added firestore + auth" />
+    <MESSAGE value="create sign up form" />
+    <MESSAGE value="added button component, sign-up-form" />
+    <MESSAGE value="added authentication" />
+    <MESSAGE value="added context" />
+    <MESSAGE value="added cart" />
+    <MESSAGE value="created checkout page" />
+    <MESSAGE value="add store methods" />
+    <MESSAGE value="fetching data as a map" />
+    <MESSAGE value="split categories" />
+    <MESSAGE value="updated category page" />
+    <MESSAGE value="fixing clashing styles" />
+    <MESSAGE value="finalized" />
+    <MESSAGE value="updated git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated git ignore" />
+  </component>
+</project>

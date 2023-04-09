@@ -1,5 +1,5 @@
 import { Outlet, Link } from 'react-router-dom';
-import { Fragment, useContext, useState } from 'react';
+import { Fragment, useContext } from 'react';
 import { ReactComponent as CrownLogo } from '../../assets/crown.svg';
 import { CartContext } from '../../contexts/cart.context';
 import { UserContext } from '../../contexts/user.context';

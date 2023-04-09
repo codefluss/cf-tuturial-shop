@@ -1,9 +1,9 @@
-import './directory-item.styles.scss';
 import { useNavigate } from 'react-router-dom';
+import './directory-item.styles.scss';
 
 const DirectoryItem = ({ category }) => {
   const navigate = useNavigate();
-  const { id, imageUrl, title } = category;
+  const { imageUrl, title } = category;
 
   const navigateTo = () => navigate(`/shop/${category.title}`);
 

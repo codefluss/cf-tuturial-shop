@@ -94,6 +94,7 @@
       <workItem from="1680978823593" duration="206000" />
       <workItem from="1680979032286" duration="968000" />
       <workItem from="1680982267734" duration="23000" />
+      <workItem from="1680982392151" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="updated project structure">
       <created>1680622929401</created>
@@ -228,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680982284463</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updated redirects">
+      <created>1680982435514</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982435514</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +276,7 @@
     <MESSAGE value="updated git ignore" />
     <MESSAGE value="add ideea files" />
     <MESSAGE value="added redirect for netlify" />
-    <option name="LAST_COMMIT_MESSAGE" value="added redirect for netlify" />
+    <MESSAGE value="updated redirects" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated redirects" />
   </component>
 </project>

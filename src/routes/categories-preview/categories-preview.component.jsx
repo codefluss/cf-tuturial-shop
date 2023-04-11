@@ -1,10 +1,9 @@
 import CategoryPreview from '../../components/category-preview/category-preview.component';
-
-import './categories-preview.styles.scss';
 import { useSelector } from 'react-redux';
 import { selectCategoriesIsLoading, selectCategoriesMap } from '../../store/categories/category.selector';
 import { Fragment } from 'react';
 import Spinner from '../../components/spinner/spinner.component';
+import './categories-preview.styles.scss';
 
 
 const CategoriesPreview = () => {

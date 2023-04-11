@@ -3,9 +3,8 @@ import CartItem from '../cart-item/cart-item.component';
 import { useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectCartItems } from '../../store/cart/cart.selector';
-
-import './cart-dropdown.styles.scss';
 import { setIsCartOpen } from '../../store/cart/cart.action';
+import './cart-dropdown.styles.scss';
 
 const CartDropdown = () => {
   const dispatch = useDispatch(); 

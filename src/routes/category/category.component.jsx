@@ -1,11 +1,10 @@
 import { useParams } from 'react-router-dom';
 import { Fragment, useEffect, useState } from 'react';
 import ProductCard from '../../components/product-card/product-card.component';
-
-import './category.styles.scss';
 import { useSelector } from 'react-redux';
 import { selectCategoriesIsLoading, selectCategoriesMap } from '../../store/categories/category.selector';
 import Spinner from '../../components/spinner/spinner.component';
+import './category.styles.scss';
 
 
 const Category = () => {

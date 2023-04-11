@@ -4,24 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.styles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/root-saga.js" afterDir="false" />
+    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="added redux thunk">
+      <change afterPath="$PROJECT_DIR$/src/store/categories/category.saga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/root.saga.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/category-preview/category-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category-preview/category-preview.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-dropdown/cart-dropdown.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-icon/cart-icon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-icon/cart-icon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/product-card/product-card.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/product-card/product-card.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-in-form/sign-in-form.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in-form/sign-in-form.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-up-form/sign-up-form.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up-form/sign-up-form.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/categories-preview/categories-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/categories-preview/categories-preview.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/category/category.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/category/category.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/navigation/navigation.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/cart/cart.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/categories/category.action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/categories/category.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/categories/category.selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.selector.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/categories/category.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/user/user.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/user/user.types.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="011-redux-thunk" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "011-redux-thunk",
+    "git-widget-placeholder": "012-redux-saga",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681160331219</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added redux thunk">
+      <created>1681197904831</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681197904831</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +340,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added firestore + auth" />
     <MESSAGE value="create sign up form" />
     <MESSAGE value="added button component, sign-up-form" />
     <MESSAGE value="added authentication" />
@@ -358,6 +364,7 @@
     <MESSAGE value="adding middleware" />
     <MESSAGE value="migrated cart context to cart reducer" />
     <MESSAGE value="added redux persist" />
-    <option name="LAST_COMMIT_MESSAGE" value="added redux persist" />
+    <MESSAGE value="added redux thunk" />
+    <option name="LAST_COMMIT_MESSAGE" value="added redux thunk" />
   </component>
 </project>

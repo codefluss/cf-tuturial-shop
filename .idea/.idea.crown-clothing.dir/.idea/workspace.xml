@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="backup state">
+    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="backup state converting user and categories">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/categories/category.action.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/categories/category.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/categories/category.types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/user/user.action.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/user/user.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/user/user.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/user/user.types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-dropdown/cart-dropdown.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-icon/cart-icon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-icon/cart-icon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/product-card/product-card.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/product-card/product-card.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/cart/cart.action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/cart/cart.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/cart/cart.types.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681234267090</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="backup state converting user and categories">
+      <created>1681236747129</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1681236747129</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +338,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="create sign up form" />
     <MESSAGE value="added button component, sign-up-form" />
     <MESSAGE value="added authentication" />
     <MESSAGE value="added context" />
@@ -358,6 +362,7 @@
     <MESSAGE value="migrated cart context to cart reducer" />
     <MESSAGE value="added redux persist" />
     <MESSAGE value="backup state" />
-    <option name="LAST_COMMIT_MESSAGE" value="backup state" />
+    <MESSAGE value="backup state converting user and categories" />
+    <option name="LAST_COMMIT_MESSAGE" value="backup state converting user and categories" />
   </component>
 </project>

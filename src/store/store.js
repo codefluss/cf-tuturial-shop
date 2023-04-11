@@ -1,4 +1,17 @@
-import { compose, createStore,  applyMiddleware } from 'redux';
+import { configureStore } from '@reduxjs/toolkit';
+import { rootReducer } from './root.reducer';
+import { logger } from 'redux-logger/src';
+
+
+const middleWares= [process.env.NODE_ENV !== 'production' && logger].filter(Boolean);
+
+export const store = configureStore({
+  reducer: rootReducer,
+  middleware: [...middleWares]
+});
+
+
+/*
 import logger from 'redux-logger';
 import { rootReducer } from './root.reducer';
 import { persistStore, persistReducer } from 'redux-persist';
@@ -23,3 +36,4 @@ const composedEnhancers = composeEnhancer(applyMiddleware(...middleWares));
 export const store = createStore(persistedReducer,  undefined, composedEnhancers);
 
 export const persistor = persistStore(store);
+*/

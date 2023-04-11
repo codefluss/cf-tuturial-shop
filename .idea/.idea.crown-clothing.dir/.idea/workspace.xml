@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="migrated cart context to cart reducer">
+    <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/middleware/logger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +100,7 @@
       <workItem from="1680982267734" duration="23000" />
       <workItem from="1680982392151" duration="52000" />
       <workItem from="1681024457519" duration="18913000" />
-      <workItem from="1681140164955" duration="5843000" />
+      <workItem from="1681140164955" duration="7000000" />
     </task>
     <task id="LOCAL-00001" summary="updated project structure">
       <created>1680622929401</created>
@@ -293,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681159035965</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added redux persist">
+      <created>1681160331219</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681160331219</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +319,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added routing" />
     <MESSAGE value="added firestore + auth" />
     <MESSAGE value="create sign up form" />
     <MESSAGE value="added button component, sign-up-form" />
@@ -339,6 +343,7 @@
     <MESSAGE value="updated categories" />
     <MESSAGE value="adding middleware" />
     <MESSAGE value="migrated cart context to cart reducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="migrated cart context to cart reducer" />
+    <MESSAGE value="added redux persist" />
+    <option name="LAST_COMMIT_MESSAGE" value="added redux persist" />
   </component>
 </project>

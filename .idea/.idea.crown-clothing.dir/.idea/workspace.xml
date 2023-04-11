@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73552c1-6819-406f-8f16-438f56bbe1fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/middleware/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.styles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/root-saga.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crown-clothing.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/category-preview/category-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category-preview/category-preview.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/categories-preview/categories-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/categories-preview/categories-preview.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/category/category.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/category/category.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/categories/category.action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/categories/category.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/categories/category.selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/categories/category.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/categories/category.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="009-redux" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "010-redux-persist",
+    "git-widget-placeholder": "011-redux-thunk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
